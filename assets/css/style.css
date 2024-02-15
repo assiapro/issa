@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Petit+Formal+Script&display=swap');
+
+
+.navbar-brand{
+    font-family: 'Petit Formal Script', cursive;
+}
+.section1 {
+    /* background-image: url(dance/assets/img/pointes.jpg); */
+    background: url("../img/pointes.jpg") center/cover;
+    padding: 100px 0;
+    text-align: left;
+  }
+  
+  .section h1 {
+    
+    color: black;
+    margin-bottom: 20px;
+    font-family: 'Petit Formal Script', cursive;
+  }
+
+  .section p {
+    font-size: 1.2rem;
+    margin-bottom: 30px;
+    color: black;
+  }
+
+  .btn {
+    font-size: 1.2rem;
+    padding: 10px 20px;
+    background-color:  #CACACA
+  }
